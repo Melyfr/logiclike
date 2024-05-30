@@ -1,0 +1,21 @@
+.sidebar {
+    width: 266px;
+    padding: 12px;
+    border: 1px solid #CFCFE4;
+    border-radius: 18px;
+    list-style-type: none;
+
+    &__tag {
+        padding: 12px;
+        border-radius: 12px;
+        cursor: pointer;
+
+        &--actvie {
+            color: #fff;
+            background-color: #5FBF77;
+        }
+    }
+}
+
+
+

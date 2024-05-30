@@ -1,0 +1,6 @@
+.courses {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    flex-grow: 1;
+    gap: 18px;
+}
